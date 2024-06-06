@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Misskey on Exanmple Site</title>
+        <title>Misskey on ほしさき～ブログ</title>
         <link>http://localhost:1313/categories/misskey/</link>
-        <description>Recent content in Misskey on Exanmple Site</description>
+        <description>Recent content in Misskey on ほしさき～ブログ</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 06 Jun 2024 20:19:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/misskey/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>http://localhost:1313/p/hello/</link>
-        <pubDate>Thu, 06 Jun 2024 20:19:17 +0900</pubDate>
+        <copyright>Niisango</copyright>
+        <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/misskey/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World!!</title>
+        <link>http://localhost:1313/p/hello-world/</link>
+        <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hello/</guid>
-        <description>&lt;p&gt;こんにちは、にーさんごです。&lt;/p&gt;
+        <guid>http://localhost:1313/p/hello-world/</guid>
+        <description>&lt;h2 id=&#34;本文&#34;&gt;本文
+&lt;/h2&gt;&lt;p&gt;こんにちは、にーさんごです。&lt;/p&gt;
 &lt;p&gt;メンテナンスしている時&lt;del&gt;や逝ったとき&lt;/del&gt;のためのサイトを作ろうということで、このサイトを作りました。&lt;del&gt;（おそらくほぼ見られない）&lt;/del&gt;
 場合によっては鯖缶の独り言も書かれるかもなのでよければ見てください。&lt;/p&gt;
-&lt;p&gt;以上です。&lt;/p&gt;
+&lt;p&gt;以上です&amp;hellip;と言いたいところですけどせっかくなので少し遊んでみます（？）&lt;/p&gt;
+&lt;h2 id=&#34;適当なyoutube動画&#34;&gt;適当なYouTube動画
+&lt;/h2&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tDrvgfDiEE4?si=YPydFHGQzCeih4Y5&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;適当なリンク&#34;&gt;適当なリンク
+&lt;/h2&gt;&lt;p&gt;&lt;a href=https://google.com&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以上です（多分）&lt;/p&gt;
 </description>
         </item>
         

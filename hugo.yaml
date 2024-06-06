@@ -2,8 +2,8 @@ baseurl: https://blog.koias.net
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 3
-title: Example Site
-copyright: Example Person
+title:  ほしさき～ブログ
+copyright: Niisango
 relativeURLS: true
 canonifyurls: true
 
@@ -19,13 +19,13 @@ hasCJKLanguage: false
 languages:
     ja:
         languageName: Japanese
-        title: Exanmple Site
+        title: ほしさき～ブログ
         weight: 1
         params:
             description: Example description
     en:
         languageName: English
-        title: Example Site
+        title: Hoshisaki Blog
         weight: 2
         params:
             description: Example description
@@ -58,7 +58,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: I'm very sleepy.
         avatar:
             enabled: true
             local: true

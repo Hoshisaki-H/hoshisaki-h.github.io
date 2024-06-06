@@ -10,6 +10,7 @@ tags = [
     "misskey"]
 title = "Hello World!!"
 author = "Niisango"
+comments = "false"
 +++
 
 ## 本文

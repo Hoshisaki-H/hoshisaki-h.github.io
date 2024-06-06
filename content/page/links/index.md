@@ -1,14 +1,14 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+  - title: Misskey Sourcecode (Hoshisaki)
+    description: Misskey Unofficeal Fork.
+    website: https://github.com/Hoshisaki-H/misskey
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: ほしさき～
+    description: おいでやほしさき～
+    website: https://mk.hoshisaki-h.com
+    image: https://storage.hoshisaki-h.com/hoshisaki-files/3c684d84-44c3-4abe-9b83-8206e51c8d1c.webp
 menu:
     main: 
         weight: -50
@@ -17,21 +17,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
