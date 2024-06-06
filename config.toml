@@ -27,6 +27,7 @@ name = "Jimmy Cai"
 homepage = "https://jimmycai.com"
 
 baseurl = "https://blog.koias.net"
+theme = "Stack"
 DefaultContentLanguage = "ja"
 title = "hoshisaki"
 publishDir = "docs"
