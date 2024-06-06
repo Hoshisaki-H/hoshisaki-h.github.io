@@ -2,19 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,7 +15,39 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/p/hello/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/infomation/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/information/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/misskey/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/misskey/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-06T20:19:17+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,5 +58,35 @@
                 hreflang="ja"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/p/hello-world/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/links/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/test/</loc>
   </url>
 </urlset>
