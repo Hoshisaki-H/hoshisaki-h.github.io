@@ -4,7 +4,6 @@ theme: hugo-theme-stack
 paginate: 3
 title: Example Site
 copyright: Example Person
-publishDir: docs
 relativeURLS: true
 canonifyurls: true
 
