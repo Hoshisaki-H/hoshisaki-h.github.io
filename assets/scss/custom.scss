@@ -1,0 +1,7 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+@import url(//koruri.chillout.chat/koruri.css);
+:root{
+    --ja-font-family: Koruri;
+    --base-font-family: "Lato", var(--sys-font-family), var(--ja-font-family), sans-serif;
+    --code-font-family: Menlo, Monaco, Consolas, "Courier New", var(--ja-font-family), monospace;
+}
