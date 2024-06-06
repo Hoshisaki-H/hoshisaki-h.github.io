@@ -4,3 +4,4 @@ title = 'My New Hugo Site'
 theme = 'github-style'
 publishDir = 'docs'
 canonifyurls = true
+relativeURLs = true
