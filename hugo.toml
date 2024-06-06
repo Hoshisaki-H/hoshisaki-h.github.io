@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'ja-jp'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'github-style'
 publishDir = 'docs'
 canonifyurls = true
