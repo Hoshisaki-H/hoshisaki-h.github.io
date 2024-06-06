@@ -1,7 +1,0 @@
-baseurl = "https://blog.koias.net"
-theme = "hugo-theme-stack"
-DefaultContentLanguage = "ja"
-title = "hoshisaki"
-publishDir = "docs"
-relativeURLS = "true"
-canonifyurls = "true"
