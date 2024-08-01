@@ -1,77 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>ほしさき～ブログ</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on ほしさき～ブログ</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language>
-        <copyright>Niisango</copyright>
-        <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hello World!!</title>
-        <link>http://localhost:1313/p/hello-world/</link>
-        <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/hello-world/</guid>
-        <description>&lt;h2 id=&#34;本文&#34;&gt;本文
-&lt;/h2&gt;&lt;p&gt;こんにちは、にーさんごです。&lt;/p&gt;
-&lt;p&gt;メンテナンスしている時&lt;del&gt;や逝ったとき&lt;/del&gt;のためのサイトを作ろうということで、このサイトを作りました。&lt;del&gt;（おそらくほぼ見られない）&lt;/del&gt;
-場合によっては鯖缶の独り言も書かれるかもなのでよければ見てください。&lt;/p&gt;
-&lt;p&gt;以上です&amp;hellip;と言いたいところですけどせっかくなので少し遊んでみます（？）&lt;/p&gt;
-&lt;h2 id=&#34;適当なyoutube動画&#34;&gt;適当なYouTube動画
-&lt;/h2&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tDrvgfDiEE4?si=YPydFHGQzCeih4Y5&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;適当なリンク&#34;&gt;適当なリンク
-&lt;/h2&gt;&lt;p&gt;&lt;a href=https://google.com&gt;Google&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;以上です（多分）&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;h2 id=&#34;プロフィール&#34;&gt;プロフィール
-&lt;/h2&gt;&lt;h3 id=&#34;名前&#34;&gt;名前
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;にーさんご&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;年齢&#34;&gt;年齢
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;del&gt;知らないです&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;連絡先&#34;&gt;連絡先
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=https://twitter.com/Niisango_Akari&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=https://mk.hoshisaki-h.com/@E235_1011&gt;Misskey（ほしさき～）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;メール:&lt;strong&gt;cafu_chino!outlook.jp&lt;/strong&gt;（！を@に変えてください）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>http://localhost:1313/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/links/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>http://localhost:1313/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>ほしさき～ブログ</title>
+    <link>https://blog.koias.net/</link>
+    <description>Recent content on ほしさき～ブログ</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Niisango</copyright>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.koias.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!!</title>
+      <link>https://blog.koias.net/p/hello-world/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.koias.net/p/hello-world/</guid>
+      <description>本文 こんにちは、にーさんごです。&#xA;メンテナンスしている時や逝ったときのためのサイトを作ろうということで、このサイトを作りました。（おそらくほぼ見られない） 場合によっては鯖缶の独り言も書かれるかもなのでよければ見てください。&#xA;以上です&amp;hellip;と言いたいところですけどせっかくなので少し遊んでみます（？）&#xA;適当なYouTube動画 適当なリンク Google&#xA;以上です（多分）</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://blog.koias.net/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.koias.net/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://blog.koias.net/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.koias.net/about/</guid>
+      <description>プロフィール 名前 にーさんご 年齢 知らないです 連絡先 Twitter Misskey（ほしさき～） メール:cafu_chino!outlook.jp（！を@に変えてください） </description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>https://blog.koias.net/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.koias.net/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://blog.koias.net/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.koias.net/search/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
