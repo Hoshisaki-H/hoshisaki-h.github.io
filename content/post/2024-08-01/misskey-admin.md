@@ -1,10 +1,10 @@
 +++
-categories = ["", ""]
+categories = ["Misskey", ""]
 date = 2024-08-01T12:19:51+09:00
 description = ""
-draft = true
+draft = false
 image = ""
-tags = ["", ""]
+tags = ["Misskey", ""]
 title = "Misskeyの管理が大変"
 author = "Niisango"
 +++
